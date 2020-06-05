@@ -1,2 +1,2 @@
 # rps_tensorflow
-Dicoding Academy ML submission  
+ML Dicoding Academy submission  
